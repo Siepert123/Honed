@@ -64,6 +64,8 @@ java {
     }
 }
 
+compileJava.dependsOn 'injectTags'
+
 configurations {
     embed
     implementation.extendsFrom(embed)
