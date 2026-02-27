@@ -18,6 +18,7 @@ import java.util.function.Consumer;
 
 import java.nio.file.StandardCopyOption;
 import java.nio.charset.StandardCharsets;
+import java.util.stream.Stream;
 
 public class JsonDataLoader {
     private static final Gson GSON = new GsonBuilder().create();
@@ -65,16 +66,15 @@ public class JsonDataLoader {
             Honed.LOGGER.warn("Config folder missing: {}", dir);
             return;
         }
-        try {
-            Files.walk(dir)
-                .filter(f -> f.toString().endsWith(".json"))
-                .forEach(f -> {
-                    try (Reader r = Files.newBufferedReader(f)) {
-                        handler.accept(GSON.fromJson(r, JsonObject.class));
-                    } catch (Exception e) {
-                        Honed.LOGGER.error("Failed to parse {}: {}", f.getFileName(), e.getMessage());
-                    }
-                });
+        try (Stream<Path> stream = Files.walk(dir)) {
+            stream.filter(f -> f.toString().endsWith(".json"))
+                    .forEach(f -> {
+                        try (Reader r = Files.newBufferedReader(f)) {
+                            handler.accept(GSON.fromJson(r, JsonObject.class));
+                        } catch (Exception e) {
+                            Honed.LOGGER.error("Failed to parse {}: {}", f.getFileName(), e.getMessage());
+                        }
+                    });
         } catch (Exception e) {
             Honed.LOGGER.error("Failed to scan {}: {}", folder, e.getMessage());
         }

@@ -1,3 +1,7 @@
+## BLOCKS
+tile.honed.forging_anvil.name=Forging Anvil
+
+## ITEMS
 item.honed.pickaxe.name=Honed Pickaxe
 item.honed.sword.name=Honed Sword
 item.honed.shovel.name=Honed Shovel

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "honed:forging_anvil",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "honed:forging_anvil",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "honed:forging_anvil"
+    },
+    "facing=west": {
+      "model": "honed:forging_anvil"
+    }
+  }
+}
