@@ -8,7 +8,7 @@ import quantumstudios.honed.Honed;
 import javax.annotation.Nullable;
 
 public enum HonedGUIs {
-    ;
+    FORGING_ANVIL;
 
     private final int index = this.ordinal();
     public int index() {
