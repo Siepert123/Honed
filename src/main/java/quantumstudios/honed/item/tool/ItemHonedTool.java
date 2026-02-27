@@ -64,6 +64,11 @@ public abstract class ItemHonedTool extends ItemTool {
         TraitEffectRegistry.onToolAssembled(stack);
     }
 
+    @Override
+    public String getItemStackDisplayName(ItemStack stack) {
+        return I18n.format(this.getTranslationKey(stack) + ".item", "materialtest");
+    }
+
     @SideOnly(Side.CLIENT)
     public void addInformation(ItemStack stack, World worldIn, List<String> tooltip, ITooltipFlag flagIn) {
         tooltip.add(I18n.format("item.honed." + toolType + ".tooltip.durability", ToolStats.getStat(stack, "durability")));
