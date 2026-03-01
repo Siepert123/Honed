@@ -4,6 +4,7 @@
   "tier": 2,
   "processingType": "FORGE",
   "forgingProfileId": "",
+  "color": 13421772,
   "stats": {
     "speed": 6.0,
     "durability": 250,

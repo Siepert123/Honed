@@ -15,6 +15,7 @@ public class MaterialDefinition {
     public Map<String, Float> stats; // "speed"->6.0, "durability"->250, etc.
     // stat keys: speed, durability, harvestLevel, attackDamage, attackSpeed, enchantability, handleMultiplier
     public Map<String, StatModifier> statModifiers; // optional, for MUL/ADD ops
+    public int color = 0xFFFFFF; // RGB hex; used for display and tool tinting
     public List<String> traitIds;
     public int workingTempMin;
     public int workingTempMax;
@@ -39,6 +40,7 @@ public class MaterialDefinition {
         empty.stats = new java.util.HashMap<>();
         empty.statModifiers = new java.util.HashMap<>();
         empty.traitIds = new java.util.ArrayList<>();
+        empty.color = 0xFFFFFF;
         empty.workingTempMin = 0;
         empty.workingTempMax = 0;
         empty.meltingTemp = 0;
