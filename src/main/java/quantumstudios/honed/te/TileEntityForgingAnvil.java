@@ -648,34 +648,4 @@ public class TileEntityForgingAnvil extends TileEntity implements ITickable, IGu
     public int getSlotLimit(int slot) {
         return 1;
     }
-
-    public static class MinigameContext {
-        public int currentPass;
-        public int passDuration;
-        public float targetCenter;
-        public float targetHalfWidth;
-        public int[] passScores;
-        private TileEntityForgingAnvil parent;
-
-        public MinigameContext(TileEntityForgingAnvil parent) {
-            this.parent = parent;
-            this.currentPass = parent.currentPass;
-            this.passDuration = parent.passDuration;
-            this.targetCenter = parent.targetCenter;
-            this.targetHalfWidth = parent.targetHalfWidth;
-            this.passScores = parent.passScores.clone();
-        }
-
-        public float getClientBarPos() {
-            return parent.getClientBarPos();
-        }
-
-        public int getLastActionTick() {
-            return parent.getLastActionTick();
-        }
-
-        public int getLastActionScore() {
-            return parent.getLastActionScore();
-        }
-    }
 }
