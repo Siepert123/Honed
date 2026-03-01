@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "honed:block/metal_heater_top_lit",
+    "front": "honed:block/metal_heater_front_lit",
+    "side": "honed:block/metal_heater_side",
+    "down": "honed:block/metal_heater_bottom"
+  }
+}
