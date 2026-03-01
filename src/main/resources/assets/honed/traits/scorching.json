@@ -1,0 +1,11 @@
+{
+  "id": "honed:scorching",
+  "displayName": "Scorching",
+  "description": "Sets hit entities on fire.",
+  "effectType": "SCORCHING",
+  "params": { "duration": 3.0 },
+  "synergies": ["honed:attack_bonus"],
+  "conflicts": [],
+  "synergyMultiplier": 1.3,
+  "conflictMultiplier": 0.5
+}

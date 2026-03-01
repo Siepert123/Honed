@@ -1,0 +1,20 @@
+{
+  "id": "honed:diamond",
+  "displayName": "Diamond",
+  "tier": 3,
+  "processingType": "FORGE",
+  "color": "#5EEDC6",
+  "stats": {
+    "speed": 8.0,
+    "durability": 1561,
+    "harvestLevel": 3,
+    "attackDamage": 6.0,
+    "attackSpeed": 1.2,
+    "enchantability": 10,
+    "handleMultiplier": 1.2
+  },
+  "traitIds": ["honed:attack_bonus"],
+  "workingTempMin": 1600,
+  "workingTempMax": 2200,
+  "meltingTemp": 3500
+}

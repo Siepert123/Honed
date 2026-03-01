@@ -1,0 +1,8 @@
+{
+  "id": "honed:stone_sword_head",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "sword_head",
+  "tier": 1,
+  "optimalSteps": 4
+}

@@ -1,0 +1,8 @@
+{
+  "id": "honed:iron_hoe_head",
+  "inputItem": "minecraft:iron_ingot",
+  "materialId": "honed:iron",
+  "outputPartType": "hoe_head",
+  "tier": 2,
+  "optimalSteps": 4
+}

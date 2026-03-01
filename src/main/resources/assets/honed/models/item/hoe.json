@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "honed:item/overlay_handle",
+    "layer1": "honed:item/overlay_hoe_head",
+    "layer2": "honed:item/overlay_hoe_binder"
+  }
+}

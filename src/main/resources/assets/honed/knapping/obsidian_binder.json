@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:obsidian_binder",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "binder",
+  "pattern": [
+    "X   X",
+    " X X ",
+    "  X  ",
+    " X X ",
+    "X   X"
+  ]
+}

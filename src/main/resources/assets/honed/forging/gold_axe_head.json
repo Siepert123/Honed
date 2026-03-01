@@ -1,0 +1,8 @@
+{
+  "id": "honed:gold_axe_head",
+  "inputItem": "minecraft:gold_ingot",
+  "materialId": "honed:gold",
+  "outputPartType": "axe_head",
+  "tier": 0,
+  "optimalSteps": 3
+}

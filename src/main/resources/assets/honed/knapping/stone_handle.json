@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:stone_handle",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "handle",
+  "pattern": [
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  "
+  ]
+}

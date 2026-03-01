@@ -1,0 +1,20 @@
+{
+  "toolType": "axe",
+  "partSlots": {
+    "handle": {
+      "statWeight": 0.6,
+      "isPrimary": false,
+      "partType": "handle"
+    },
+    "head": {
+      "statWeight": 1.0,
+      "isPrimary": true,
+      "partType": "axe_head"
+    },
+    "binder": {
+      "statWeight": 0.3,
+      "isPrimary": false,
+      "partType": "binder"
+    }
+  }
+}

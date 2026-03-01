@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:stone_sword_head",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "sword_head",
+  "pattern": [
+    "  X  ",
+    " XXX ",
+    " XXX ",
+    " XXX ",
+    "  X  "
+  ]
+}

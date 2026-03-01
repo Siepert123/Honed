@@ -1,0 +1,5 @@
+{
+  "id": "honed:hoe",
+  "displayName": "Hoe",
+  "requiredParts": ["handle", "head", "binder"]
+}

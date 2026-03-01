@@ -1,0 +1,20 @@
+{
+  "toolType": "sword",
+  "partSlots": {
+    "handle": {
+      "statWeight": 0.5,
+      "isPrimary": false,
+      "partType": "handle"
+    },
+    "head": {
+      "statWeight": 1.0,
+      "isPrimary": true,
+      "partType": "sword_head"
+    },
+    "binder": {
+      "statWeight": 0.3,
+      "isPrimary": false,
+      "partType": "binder"
+    }
+  }
+}

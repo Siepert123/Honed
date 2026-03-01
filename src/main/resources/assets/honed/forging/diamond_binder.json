@@ -1,0 +1,8 @@
+{
+  "id": "honed:diamond_binder",
+  "inputItem": "minecraft:diamond",
+  "materialId": "honed:diamond",
+  "outputPartType": "binder",
+  "tier": 3,
+  "optimalSteps": 4
+}

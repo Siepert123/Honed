@@ -1,0 +1,7 @@
+{
+  "id": "honed:xp_boost",
+  "displayName": "XP Boost",
+  "description": "Gains extra XP when mining blocks.",
+  "effectType": "XP_BOOST",
+  "params": { "amount": 1 }
+}

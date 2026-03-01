@@ -1,0 +1,11 @@
+{
+  "id": "honed:magnetic_pull",
+  "displayName": "Magnetic",
+  "description": "Attracts nearby items when mining.",
+  "effectType": "MAGNETIC_PULL",
+  "params": { "range": 5.0 },
+  "synergies": ["honed:xp_boost"],
+  "conflicts": [],
+  "synergyMultiplier": 1.2,
+  "conflictMultiplier": 0.5
+}

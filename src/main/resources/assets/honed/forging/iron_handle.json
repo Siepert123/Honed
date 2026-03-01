@@ -1,0 +1,8 @@
+{
+  "id": "honed:iron_handle",
+  "inputItem": "minecraft:iron_ingot",
+  "materialId": "honed:iron",
+  "outputPartType": "handle",
+  "tier": 2,
+  "optimalSteps": 3
+}

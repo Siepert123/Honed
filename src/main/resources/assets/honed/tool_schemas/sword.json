@@ -1,0 +1,6 @@
+{
+  "id": "honed:sword",
+  "displayName": "Sword",
+  "requiredParts": ["handle", "head", "binder"],
+  "baseAttackDamage": 4.0
+}

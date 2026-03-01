@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:obsidian_handle",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "handle",
+  "pattern": [
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  "
+  ]
+}

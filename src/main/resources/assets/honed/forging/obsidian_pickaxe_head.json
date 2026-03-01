@@ -1,0 +1,8 @@
+{
+  "id": "honed:obsidian_pickaxe_head",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "pickaxe_head",
+  "tier": 3,
+  "optimalSteps": 7
+}

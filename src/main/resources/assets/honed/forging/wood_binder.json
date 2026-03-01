@@ -1,0 +1,8 @@
+{
+  "id": "honed:wood_binder",
+  "inputItem": "minecraft:planks",
+  "materialId": "honed:wood",
+  "outputPartType": "binder",
+  "tier": 0,
+  "optimalSteps": 2
+}

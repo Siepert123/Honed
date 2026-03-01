@@ -1,0 +1,8 @@
+{
+  "id": "honed:obsidian_binder",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "binder",
+  "tier": 3,
+  "optimalSteps": 5
+}

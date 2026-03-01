@@ -1,0 +1,11 @@
+{
+  "id": "honed:xp_boost",
+  "displayName": "Scholarly",
+  "description": "Gains extra tool XP on block break.",
+  "effectType": "XP_BOOST",
+  "params": { "amount": 1.0 },
+  "synergies": ["honed:enchantability_bonus", "honed:magnetic_pull"],
+  "conflicts": [],
+  "synergyMultiplier": 1.2,
+  "conflictMultiplier": 0.5
+}

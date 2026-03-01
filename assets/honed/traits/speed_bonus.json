@@ -1,0 +1,7 @@
+{
+  "id": "honed:speed_bonus",
+  "displayName": "Speed Bonus",
+  "description": "Increases mining speed when tool is assembled.",
+  "effectType": "SPEED_BONUS",
+  "params": { "amount": 1.0 }
+}

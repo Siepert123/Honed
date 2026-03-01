@@ -1,0 +1,8 @@
+{
+  "id": "honed:obsidian_handle",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "handle",
+  "tier": 3,
+  "optimalSteps": 5
+}

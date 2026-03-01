@@ -1,0 +1,10 @@
+[02:52:55] [main/INFO]: unable to determine side: java.lang.NullPointerException
+[02:52:55] [main/INFO]: JsonDataLoader.load() side=UNKNOWN path=run\config\honed
+[02:52:55] [main/INFO]: copyDefaults: using file system path C:\Users\admin\AppData\Roaming\PrismLauncher\instances\NotPack - Performance\minecraft\Honed\build\resources\main\assets\honed\materials
+[02:52:55] [main/INFO]: loaded material honed:iron on side UNKNOWN
+[02:52:55] [main/INFO]: loaded material honed:wood on side UNKNOWN
+[02:52:55] [main/INFO]: copyDefaults: using file system path C:\Users\admin\AppData\Roaming\PrismLauncher\instances\NotPack - Performance\minecraft\Honed\build\resources\main\assets\honed\traits
+[02:52:55] [main/INFO]: copyDefaults: using file system path C:\Users\admin\AppData\Roaming\PrismLauncher\instances\NotPack - Performance\minecraft\Honed\build\resources\main\assets\honed\part_schemas
+[02:52:55] [main/INFO]: copyDefaults: using file system path C:\Users\admin\AppData\Roaming\PrismLauncher\instances\NotPack - Performance\minecraft\Honed\build\resources\main\assets\honed\tool_schemas
+[02:52:55] [main/INFO]: copyDefaults: using file system path C:\Users\admin\AppData\Roaming\PrismLauncher\instances\NotPack - Performance\minecraft\Honed\build\resources\main\assets\honed\forging
+[02:52:55] [main/INFO]: Loaded 2 materials, 6 traits, 2 forging recipes

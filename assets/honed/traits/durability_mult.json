@@ -1,0 +1,7 @@
+{
+  "id": "honed:durability_mult",
+  "displayName": "Durability Multiplier",
+  "description": "Multiplies durability when assembled.",
+  "effectType": "DURABILITY_MULT",
+  "params": { "factor": 1.1 }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "honed:durability_mult",
+  "displayName": "Reinforced",
+  "description": "Multiplies tool durability.",
+  "effectType": "DURABILITY_MULT",
+  "params": { "factor": 1.15 },
+  "synergies": [],
+  "conflicts": ["honed:speed_bonus"],
+  "synergyMultiplier": 1.25,
+  "conflictMultiplier": 0.75
+}

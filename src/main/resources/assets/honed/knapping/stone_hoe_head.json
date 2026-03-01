@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:stone_hoe_head",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "hoe_head",
+  "pattern": [
+    "XXXXX",
+    "XXXXX",
+    "     ",
+    "     ",
+    "     "
+  ]
+}

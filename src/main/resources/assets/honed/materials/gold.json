@@ -1,0 +1,20 @@
+{
+  "id": "honed:gold",
+  "displayName": "Gold",
+  "tier": 0,
+  "processingType": "FORGE",
+  "color": "#FFD700",
+  "stats": {
+    "speed": 12.0,
+    "durability": 32,
+    "harvestLevel": 0,
+    "attackDamage": 3.0,
+    "attackSpeed": 1.6,
+    "enchantability": 22,
+    "handleMultiplier": 0.6
+  },
+  "traitIds": ["honed:enchantability_bonus"],
+  "workingTempMin": 600,
+  "workingTempMax": 900,
+  "meltingTemp": 1064
+}

@@ -1,0 +1,11 @@
+{
+  "id": "honed:speed_bonus",
+  "displayName": "Speed Bonus",
+  "description": "Increases mining speed.",
+  "effectType": "SPEED_BONUS",
+  "params": { "bonus": 1.0 },
+  "synergies": ["honed:attack_bonus"],
+  "conflicts": ["honed:durability_mult"],
+  "synergyMultiplier": 1.25,
+  "conflictMultiplier": 0.75
+}

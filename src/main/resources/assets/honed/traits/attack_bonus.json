@@ -1,0 +1,11 @@
+{
+  "id": "honed:attack_bonus",
+  "displayName": "Attack Bonus",
+  "description": "Adds flat attack damage.",
+  "effectType": "ATTACK_BONUS",
+  "params": { "bonus": 1.0 },
+  "synergies": ["honed:speed_bonus"],
+  "conflicts": [],
+  "synergyMultiplier": 1.25,
+  "conflictMultiplier": 0.5
+}

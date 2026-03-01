@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:wood_sword_head",
+  "inputItem": "ore:plankWood",
+  "materialId": "honed:wood",
+  "outputPartType": "sword_head",
+  "pattern": [
+    "  X  ",
+    " XXX ",
+    " XXX ",
+    " XXX ",
+    "  X  "
+  ]
+}

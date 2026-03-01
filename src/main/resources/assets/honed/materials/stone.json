@@ -1,0 +1,20 @@
+{
+  "id": "honed:stone",
+  "displayName": "Stone",
+  "tier": 1,
+  "processingType": "CARVE",
+  "color": "#9E9E9E",
+  "stats": {
+    "speed": 4.0,
+    "durability": 131,
+    "harvestLevel": 1,
+    "attackDamage": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "handleMultiplier": 0.5
+  },
+  "traitIds": ["honed:speed_bonus"],
+  "workingTempMin": 0,
+  "workingTempMax": 0,
+  "meltingTemp": 0
+}

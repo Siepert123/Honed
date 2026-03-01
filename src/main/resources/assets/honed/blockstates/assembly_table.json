@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "honed:assembly_table" },
+    "facing=south": { "model": "honed:assembly_table", "y": 180 },
+    "facing=east":  { "model": "honed:assembly_table", "y": 90 },
+    "facing=west":  { "model": "honed:assembly_table", "y": 270 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "honed:diamond_handle",
+  "inputItem": "minecraft:diamond",
+  "materialId": "honed:diamond",
+  "outputPartType": "handle",
+  "tier": 3,
+  "optimalSteps": 4
+}

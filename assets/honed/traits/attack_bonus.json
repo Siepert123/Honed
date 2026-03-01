@@ -1,0 +1,7 @@
+{
+  "id": "honed:attack_bonus",
+  "displayName": "Attack Bonus",
+  "description": "Adds flat attack damage when tool is assembled.",
+  "effectType": "ATTACK_BONUS",
+  "params": { "amount": 1.0 }
+}

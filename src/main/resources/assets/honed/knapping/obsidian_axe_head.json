@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:obsidian_axe_head",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "axe_head",
+  "pattern": [
+    "XX   ",
+    "XXX  ",
+    "XXXX ",
+    "XXX  ",
+    "XX   "
+  ]
+}

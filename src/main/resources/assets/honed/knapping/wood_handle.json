@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:wood_handle",
+  "inputItem": "ore:plankWood",
+  "materialId": "honed:wood",
+  "outputPartType": "handle",
+  "pattern": [
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  ",
+    "  X  "
+  ]
+}

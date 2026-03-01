@@ -1,0 +1,8 @@
+{
+  "id": "honed:wood_hoe_head",
+  "inputItem": "minecraft:planks",
+  "materialId": "honed:wood",
+  "outputPartType": "hoe_head",
+  "tier": 0,
+  "optimalSteps": 3
+}

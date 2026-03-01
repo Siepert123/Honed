@@ -1,0 +1,8 @@
+{
+  "id": "honed:gold_handle",
+  "inputItem": "minecraft:gold_ingot",
+  "materialId": "honed:gold",
+  "outputPartType": "handle",
+  "tier": 0,
+  "optimalSteps": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": "honed:obsidian",
+  "displayName": "Obsidian",
+  "tier": 3,
+  "processingType": "CARVE",
+  "color": "#3B2754",
+  "stats": {
+    "speed": 3.0,
+    "durability": 2500,
+    "harvestLevel": 3,
+    "attackDamage": 7.0,
+    "attackSpeed": 0.8,
+    "enchantability": 6,
+    "handleMultiplier": 0.8
+  },
+  "traitIds": ["honed:scorching"],
+  "workingTempMin": 0,
+  "workingTempMax": 0,
+  "meltingTemp": 0
+}

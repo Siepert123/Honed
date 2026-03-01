@@ -1,0 +1,11 @@
+{
+  "id": "honed:lifesteal",
+  "displayName": "Lifesteal",
+  "description": "Heals the wielder on hit.",
+  "effectType": "LIFESTEAL",
+  "params": { "percent": 0.15 },
+  "synergies": ["honed:attack_bonus", "honed:scorching"],
+  "conflicts": [],
+  "synergyMultiplier": 1.2,
+  "conflictMultiplier": 0.5
+}

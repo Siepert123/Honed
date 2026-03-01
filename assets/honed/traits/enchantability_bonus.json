@@ -1,0 +1,7 @@
+{
+  "id": "honed:enchantability_bonus",
+  "displayName": "Enchantability Bonus",
+  "description": "Adds enchantability when tool is assembled.",
+  "effectType": "ENCHANTABILITY_BONUS",
+  "params": { "amount": 2.0 }
+}

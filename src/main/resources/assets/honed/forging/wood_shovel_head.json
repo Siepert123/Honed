@@ -1,0 +1,8 @@
+{
+  "id": "honed:wood_shovel_head",
+  "inputItem": "minecraft:planks",
+  "materialId": "honed:wood",
+  "outputPartType": "shovel_head",
+  "tier": 0,
+  "optimalSteps": 3
+}

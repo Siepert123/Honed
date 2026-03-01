@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:wood_axe_head",
+  "inputItem": "ore:plankWood",
+  "materialId": "honed:wood",
+  "outputPartType": "axe_head",
+  "pattern": [
+    "XX   ",
+    "XXX  ",
+    "XXXX ",
+    "XXX  ",
+    "XX   "
+  ]
+}

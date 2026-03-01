@@ -1,0 +1,8 @@
+{
+  "id": "honed:gold_binder",
+  "inputItem": "minecraft:gold_ingot",
+  "materialId": "honed:gold",
+  "outputPartType": "binder",
+  "tier": 0,
+  "optimalSteps": 2
+}

@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:stone_shovel_head",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "shovel_head",
+  "pattern": [
+    " XXX ",
+    "XXXXX",
+    "XXXXX",
+    "  X  ",
+    "     "
+  ]
+}

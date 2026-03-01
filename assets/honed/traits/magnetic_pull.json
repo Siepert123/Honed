@@ -1,0 +1,7 @@
+{
+  "id": "honed:magnetic_pull",
+  "displayName": "Magnetic Pull",
+  "description": "Attracts nearby items when mining.",
+  "effectType": "MAGNETIC_PULL",
+  "params": { "range": 5.0 }
+}

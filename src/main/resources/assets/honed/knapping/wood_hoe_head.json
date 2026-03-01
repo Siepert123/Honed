@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:wood_hoe_head",
+  "inputItem": "ore:plankWood",
+  "materialId": "honed:wood",
+  "outputPartType": "hoe_head",
+  "pattern": [
+    "XXXXX",
+    "XXXXX",
+    "     ",
+    "     ",
+    "     "
+  ]
+}

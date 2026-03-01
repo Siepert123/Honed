@@ -1,0 +1,8 @@
+{
+  "id": "honed:obsidian_hoe_head",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "hoe_head",
+  "tier": 3,
+  "optimalSteps": 6
+}

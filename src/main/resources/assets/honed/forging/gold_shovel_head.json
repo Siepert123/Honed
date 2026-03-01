@@ -1,0 +1,8 @@
+{
+  "id": "honed:gold_shovel_head",
+  "inputItem": "minecraft:gold_ingot",
+  "materialId": "honed:gold",
+  "outputPartType": "shovel_head",
+  "tier": 0,
+  "optimalSteps": 3
+}

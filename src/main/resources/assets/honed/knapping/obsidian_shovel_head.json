@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:obsidian_shovel_head",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "shovel_head",
+  "pattern": [
+    " XXX ",
+    "XXXXX",
+    "XXXXX",
+    "  X  ",
+    "     "
+  ]
+}

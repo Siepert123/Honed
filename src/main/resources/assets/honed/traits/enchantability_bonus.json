@@ -1,0 +1,11 @@
+{
+  "id": "honed:enchantability_bonus",
+  "displayName": "Arcane",
+  "description": "Increases enchantability.",
+  "effectType": "ENCHANTABILITY_BONUS",
+  "params": { "bonus": 2.0 },
+  "synergies": ["honed:xp_boost"],
+  "conflicts": [],
+  "synergyMultiplier": 1.3,
+  "conflictMultiplier": 0.5
+}

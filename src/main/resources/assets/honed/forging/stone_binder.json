@@ -1,0 +1,8 @@
+{
+  "id": "honed:stone_binder",
+  "inputItem": "minecraft:cobblestone",
+  "materialId": "honed:stone",
+  "outputPartType": "binder",
+  "tier": 1,
+  "optimalSteps": 2
+}

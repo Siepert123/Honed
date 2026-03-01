@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:wood_binder",
+  "inputItem": "ore:plankWood",
+  "materialId": "honed:wood",
+  "outputPartType": "binder",
+  "pattern": [
+    "X   X",
+    " X X ",
+    "  X  ",
+    " X X ",
+    "X   X"
+  ]
+}

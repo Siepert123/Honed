@@ -1,0 +1,5 @@
+{
+  "id": "honed:shovel",
+  "displayName": "Shovel",
+  "requiredParts": ["handle", "head", "binder"]
+}

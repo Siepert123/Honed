@@ -1,0 +1,13 @@
+﻿{
+  "id": "honed:obsidian_sword_head",
+  "inputItem": "minecraft:obsidian",
+  "materialId": "honed:obsidian",
+  "outputPartType": "sword_head",
+  "pattern": [
+    "  X  ",
+    " XXX ",
+    " XXX ",
+    " XXX ",
+    "  X  "
+  ]
+}
