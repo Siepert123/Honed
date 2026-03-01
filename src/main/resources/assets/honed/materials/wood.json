@@ -4,6 +4,7 @@
   "tier": 0,
   "processingType": "CARVE",
   "forgingProfileId": "",
+  "color": 10546221,
   "stats": {
     "speed": 2.0,
     "durability": 59,
